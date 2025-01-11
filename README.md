@@ -1,29 +1,33 @@
-# Aurelien_DEMEUSY
-A French student at Epitech Lyon learning development.
+<h1>Hi, I'm DEMEUSY Aurelien!</h1>
+<h2>An Epitech student passionate about AI, Robotics, and Cybersecurity : I really appreciate to discover new things</h2>
 
-👋 Bienvenue !
-Qui suis-je ?
-Je m'appelle [Votre Prénom et Nom], un(e) passionné(e) de [votre domaine principal, par exemple : développement logiciel, design graphique, gestion de projet]. Avec une forte curiosité et une envie constante d'apprendre, je m'efforce de relever des défis et de créer des solutions innovantes.
+- 🌐 I'm an 19-year-old French student
+- 🎓 I'm in my 1st year at Epitech (class of 2028) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a>
+- ✍️ I'm learning computer science and programming
+- 📌 I live in Lyon in France
+- 🗣 I speak fluent French 🇫🇷 and pretty good English 🇺🇸<br>
 
-🌟 Mes points forts
-🎓 Formation : [Votre diplôme, exemple : Ingénieur en informatique, Licence en Design, etc.]
-💼 Expérience : [Votre poste actuel ou passé pertinent, exemple : Développeur chez XYZ, Designer indépendant(e)]
-🛠️ Compétences techniques :
-Langages : [Exemple : C, Python, JavaScript]
-Outils et Frameworks : [Exemple : React, Git, Docker]
-Méthodologies : [Exemple : Agile, Scrum, Design Thinking]
-🤝 Soft skills : Travail en équipe, résolution de problèmes, communication efficace.
-💼 Projets marquants
-[Nom du projet 1](lien vers le projet) : Une courte description de ce projet et de votre rôle.
-[Nom du projet 2](lien vers le projet) : Une autre réalisation clé qui met en avant vos compétences.
-[Nom du projet 3](lien vers le projet) : Mettez un projet qui reflète vos intérêts ou valeurs.
-💡 Centres d’intérêt
-En dehors de mon travail, j’aime :
-
-Explorer [vos hobbies : les nouvelles technologies, l'intelligence artificielle, le design].
-[Autre centre d’intérêt : Voyager, lire, ou même cuisiner].
-📫 Contactez-moi
-📧 Email : [votre.email@example.com]
-🌐 LinkedIn : [Lien vers votre profil LinkedIn]
-🐙 GitHub : [Lien vers votre profil GitHub]
-Merci de votre visite ! 🚀
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    <h3 align="left">Languages :</h3>
+    <p align="left">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <h3 align="left">Tools :</h3>
+    <p align="left">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+    </p>
+  </div>
+</div>
