@@ -20,6 +20,9 @@
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
       </a>
+      <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" width="40" height="40"/>
+      </a>
     </p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
