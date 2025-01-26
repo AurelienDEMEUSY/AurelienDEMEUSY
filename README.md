@@ -23,6 +23,9 @@
       <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/>
       </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Docker_logo.png/640px-Docker_logo.png" alt="Docker" width="40" height="40"/>
+      </a>
     </p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
