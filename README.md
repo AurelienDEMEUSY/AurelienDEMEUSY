@@ -26,8 +26,8 @@
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
       </a>
-      <a href="https://move-language.github.io/move/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/otoyo/vsc-move-syntax/master/images/move-logo.png" alt="move" width="40" height="40"/>
+      <a href="https://docs.sui.io/concepts/sui-move-concepts" target="_blank" rel="noreferrer">
+        <img src="https://cryptologos.cc/logos/sui-sui-logo.svg" alt="move-sui" width="40" height="40"/>
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
