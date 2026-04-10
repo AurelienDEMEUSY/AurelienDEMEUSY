@@ -1,8 +1,8 @@
 <h1>Hi, I'm DEMEUSY Aurelien!</h1>
 <h2>An Epitech student passionate about AI and Blockchain : I really appreciate to discover new things</h2>
 
-- 🌐 I'm an 18-year-old French student
-- 🎓 I'm in my 1st year at Epitech (Promo of 2029) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a>
+- 🌐 I'm an 19-year-old French student
+- 🎓 I'm in my 2nd year at Epitech (Promo of 2029) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a>
 - ✍️ I'm learning computer science and programming
 - 📌 I live in Lyon in France
 - 🗣 I speak fluent French 🇫🇷 and pretty good English 🇺🇸<br>
